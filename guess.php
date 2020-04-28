@@ -21,7 +21,7 @@
         } else {
           echo("Congratulations - You are right");
         }
-      ?>
+      ?> 
     </p>
   </body>
 </html>
