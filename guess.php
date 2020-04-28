@@ -19,9 +19,9 @@
         } else if ( $_GET['guess'] > 42 ) {
           echo("Your guess is too high");
         } else {
-          echo("Congratulations - You are right");
+          echo("Congratulations - You are right!");
         }
-      ?> 
+      ?>
     </p>
   </body>
 </html>
